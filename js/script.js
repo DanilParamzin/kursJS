@@ -131,10 +131,12 @@
 //     num++;
 // }
 
-for (let i = 1; i < 10; i++) {
-        if (i === 6){
-            // break;
-            continue;
-        }
-        console.log(i);
-    }
+// for (let i = 1; i < 10; i++) {
+//         if (i === 6){
+//             // break;
+//             continue; //Пропускает этот шаг 
+//         }
+//         console.log(i);
+//     }
+
+
